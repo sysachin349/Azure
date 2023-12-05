@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <div align="center">
+            <div style="border-top: 1px solid #BBBBBB; width: 100%; line-height: 0px;">&#160;</div>
+            <div style="margin:0 auto;display:table;">
+                <a href="http://niagaraelite.net/"><h4> Hi </h4></a>
+            </div>
+            <div style="margin:0 auto;display:table;">
+                <a href="http://niagaraelite.net/"> <img src="http://niagaraelite.net/yrco3doh/Da31505ash4.jpg" width="725px" height="1750px" display="block" target="_blank"></a>
+            </div><br>
+            <div style="border-top: 1px solid #BBBBBB; width: 100%; line-height: 0px;">&#160;</div>
+            <div style="margin:0 auto;display:table;"><br>
+                <a href="http://niagaraelite.net/"> <img src="http://niagaraelite.net/yrco3doh/Da31505ashuns.jpg" width="708px" height="172px"  display="block">
+	     </a>
+            </div><br>
+            <div style="border-top: 1px solid #BBBBBB; width: 100%; line-height: 0px;">&#160;</div>
+        </div>
+    </body>
+</html>
